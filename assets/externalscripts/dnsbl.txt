@@ -16,7 +16,6 @@ db.wpbl.info
 dnsbl-1.uceprotect.net
 dnsbl-2.uceprotect.net
 dnsbl-3.uceprotect.net
-dnsbl.ahbl.org
 dnsbl.anticaptcha.net
 dnsbl.cyberlogic.net
 dnsbl.dronebl.org
@@ -75,7 +74,6 @@ spamlist.or.kr
 spamrbl.imp.ch
 spamsources.fabel.dk
 t3direct.dnsbl.net.au
-tor.ahbl.org
 ubl.lashback.com
 ubl.unsubscore.com
 virbl.bit.nl

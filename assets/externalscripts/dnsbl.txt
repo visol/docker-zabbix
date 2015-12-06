@@ -1,4 +1,5 @@
 #list from http://www.dnsbl.info/dnsbl-list.php
+all.s5h.net
 b.barracudacentral.org
 bl.deadbeef.com
 bl.emailbasura.org
@@ -16,8 +17,11 @@ dnsbl-1.uceprotect.net
 dnsbl-2.uceprotect.net
 dnsbl-3.uceprotect.net
 dnsbl.ahbl.org
+dnsbl.anticaptcha.net
 dnsbl.cyberlogic.net
+dnsbl.dronebl.org
 dnsbl.inps.de
+dnsbl.njabl.org
 dnsbl.sorbs.net
 drone.abuse.ch
 drone.abuse.ch
@@ -26,6 +30,7 @@ dul.dnsbl.sorbs.net
 dul.ru
 dyna.spamrats.com
 dynip.rothen.com
+exitnodes.tor.dnsbl.sectoor.de
 http.dnsbl.sorbs.net
 images.rbl.msrbl.net
 ips.backscatterer.org
@@ -56,19 +61,21 @@ residential.block.transip.nl
 ricn.dnsbl.net.au
 rmst.dnsbl.net.au
 sbl.spamhaus.org
+service.mailblacklist.com
 short.rbl.jp
+singular.ttk.pte.hu
 smtp.dnsbl.sorbs.net
 socks.dnsbl.sorbs.net
 spam.abuse.ch
 spam.dnsbl.sorbs.net
 spam.rbl.msrbl.net
 spam.spamrats.com
+spambot.bls.digibase.ca
 spamlist.or.kr
 spamrbl.imp.ch
+spamsources.fabel.dk
 t3direct.dnsbl.net.au
 tor.ahbl.org
-tor.dnsbl.sectoor.de
-torserver.tor.dnsbl.sectoor.de
 ubl.lashback.com
 ubl.unsubscore.com
 virbl.bit.nl
